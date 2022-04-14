@@ -1,0 +1,16 @@
+$media-break-points: (
+	xs: 	0,
+	sm: 	576px, // phone()
+	md: 	768px, // tablet()
+	lg: 	992px, // desktop()
+	xl: 	1280px,
+	xxl: 	1440px,
+	xxxl: 	1500px
+) !default;
+
+// White
+$white: #fff !default;
+
+// Black
+$black: #000 !default;
+$black-200: #e0e0e0 !default;
